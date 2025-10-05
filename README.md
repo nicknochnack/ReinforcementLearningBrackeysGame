@@ -9,8 +9,8 @@ Learning how to apply RL via SB3 to GoDot environments.
 Not really a tutorial this one, just did a code dump in case y'all want it. 
 
 # Other References 🔗
-GoDotRL reference: https://github.com/edbeeching/godot_rl_agents
-Brackeys Vid: https://youtu.be/LOhfqjmasi0?si=3ib-ZIREVJq4P_GY 
+- GoDotRL reference: https://github.com/edbeeching/godot_rl_agents
+- Brackeys Vid: https://youtu.be/LOhfqjmasi0?si=3ib-ZIREVJq4P_GY 
 
 # Who, When, Why?
 
