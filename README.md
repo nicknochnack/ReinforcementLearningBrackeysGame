@@ -1,8 +1,19 @@
+# RLing Brackeys Game
+Learning how to apply RL via SB3 to GoDot environments. 
 
-<!-- Sample Run -->
-uv run godot_rl_agents/examples/stable_baselines3_example.py --env_path=examples/bin/godot_rl_JumperHard/bin/JumperHard.x86_64 --experiment_name=Experiment_01 --viz
+## See it live and in action 📺
+<img src="https://i.imgur.com/OXvEn4Z.png"/>
 
 
-Add AIController3D to player 
-Right click AIController3D node and select extend script
-Inside of here you'll handle get_obs, get_reward, get_action_space and set_action functions 
+# Startup 🚀
+Not really a tutorial this one, just did a code dump in case y'all want it. 
+
+# Other References 🔗
+GoDotRL reference: https://github.com/edbeeching/godot_rl_agents
+Brackeys Vid: https://youtu.be/LOhfqjmasi0?si=3ib-ZIREVJq4P_GY 
+
+# Who, When, Why?
+
+👨🏾‍💻 Author: Nick Renotte <br />
+📅 Version: 1.x<br />
+📜 License: This project is licensed under the MIT License </br>
